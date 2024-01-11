@@ -1,13 +1,8 @@
 # Bookstore
-Configure the REST API endpoint and database connection in the appropriate configuration files.
-Run the application:
-npm run dev
-Open your browser and visit http://localhost:8080 to access the Bookstore website.
-
-Usage
-Browse the collection of books on the categories page.
-Add books to your shopping cart.
-Proceed to the checkout to complete your purchase.
+Configure the REST API endpoint and database connection in the appropriate configuration files.<br/>
+Run the application:<br/>
+npm run dev<br/>
+Open your browser and visit http://localhost:8080 to access the Bookstore website.<br/>
 
 Features
 Browse Books: Explore a diverse collection of books.
